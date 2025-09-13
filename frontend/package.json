@@ -63,7 +63,8 @@
     "rehype-highlight": "^7.0.0",
     "axios": "^1.6.2",
     "js-cookie": "^3.0.5",
-    "@types/js-cookie": "^3.0.6"
+    "@types/js-cookie": "^3.0.6",
+    "@supabase/supabase-js": "^2.38.4"
   },
   "devDependencies": {
     "eslint": "^8.56.0",
