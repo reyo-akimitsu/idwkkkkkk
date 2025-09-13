@@ -1,4 +1,4 @@
-# 🚀 Premium Chat App
+# 🚀 Premium Chat App by Reyo ;p
 
 A modern, real-time chat application built with cutting-edge technologies. Features a sleek Discord/Slack-inspired UI with glassmorphism effects, real-time messaging, file sharing, and enterprise-grade security.
 
